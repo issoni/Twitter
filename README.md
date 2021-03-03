@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 * Logging in and logging out
-<img src="hhttp://g.recordit.co/kzvjLaDRUh.gif" width=250><br>
+<img src="http://g.recordit.co/kzvjLaDRUh.gif" width=250><br>
 
