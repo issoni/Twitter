@@ -27,3 +27,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://g.recordit.co/kzvjLaDRUh.gif" width=250><br>
 
+
+
+* Features 
+
+
+<img src="http://g.recordit.co/hhdDFxohrG.gif" width=250><br>
+
